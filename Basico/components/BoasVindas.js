@@ -71,7 +71,7 @@ function BoasVindas(props){
 
 const styles = StyleSheet.create({
     container:{
-       backgroundColor: '#20BF55',
+       backgroundColor: '#081a31',
        width: 300,
        borderRadius: 5,
        padding: 10,
